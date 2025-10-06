@@ -26,8 +26,8 @@ An intelligent question-answering system that lets you upload PDF files and ask 
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/Information_Retrieval_With_LlamaIndex_Google_Gemini.git 
-   cd Information_Retrieval_With_LlamaIndex_Google_Gemini
+   git clone https://github.com/your-username/QA-with-Documents.git 
+   cd QA-with-Documents
 
 2. **Install dependencies**
    ```bash
